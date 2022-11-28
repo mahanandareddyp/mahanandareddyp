@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **mahanandareddyp/mahanandareddyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Coding
 - 📫 How to reach me: mahanandareddy2908@gmail.com
 - ⚡ Fun fact: I was here before this become popular
--->
